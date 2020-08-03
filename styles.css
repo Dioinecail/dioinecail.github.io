@@ -1,6 +1,9 @@
 /* Header */
-#main {
+body {
     background-image: url("background.png");
+}
+
+#main {
 }
 
 #crop {
