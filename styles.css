@@ -1,16 +1,6 @@
 /* Header */
 .main {
-    position: relative;
-    width: 100%;
-    background: #333;
-    overflow: hidden;
-    background-size: cover;
-    background-position: center center;
-    z-index: 1;
-}
-
-#main {
-    background-image: url("background.png");
+    background-image: url('background.png');
 }
 
 .crop {
