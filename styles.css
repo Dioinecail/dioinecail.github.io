@@ -1,9 +1,9 @@
 /* Header */
-main {
-    background-image: url('background.png');
+#main {
+    background-image: url("background.png");
 }
 
-.crop {
+#crop {
     width: 200px;
     height: 200px;
     overflow: hidden;
